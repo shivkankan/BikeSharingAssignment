@@ -25,26 +25,24 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- As per Analysis, the top 3 predictor variables that influences the bike booking are.
+- Temperature (temp)
+- Weather Situation 3 (weathersit_3
+- Year (yr)
+- So, it's suggested to consider these variables utmost importance while planning, to achive maximum Booking
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Libraries used are pandas, seaborn, matplotlib, sklearn and statsmodels
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is a case study and the details for the case study is given by UpGrad.
+- references are taken from the study material of UpGrad.
 
 
 ## Contact
